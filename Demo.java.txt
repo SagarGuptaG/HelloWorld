@@ -3,5 +3,6 @@ class Demo
 	public static void main(String...x)
 	{
 		System.out.println("Hello Java");
+		System.out.println("Hello Java Day 2");
 	}
 }
